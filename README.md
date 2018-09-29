@@ -17,7 +17,7 @@ __It's Magisk install-able, don't install it by TWRP but with Magisk instead!__
 
 #### Option 2 - Download
 1. Go to Magisk Manager **_Downloads_** section.
-2. Search/Find **_"Thermal Mod for Mi5 Fast Charge"_**.
+2. Search/Find **_"Thermal Mod for Mi5 - Fast Charge"_**.
 3. Tap on the download button and then on **_INSTALL_**.
 4. Wait a moment to finish downloading and installing.
 5. When finished tap on **_REBOOT_**.
