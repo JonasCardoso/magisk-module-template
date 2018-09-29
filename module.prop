@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=thermal_mod_mi5
+name=Thermal Mod for Mi5 - Fast Charge
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=JonasCardoso
+description=This module allows faster battery charging than the standard.
 minMagisk=17000

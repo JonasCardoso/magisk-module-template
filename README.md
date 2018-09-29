@@ -1,7 +1,32 @@
-# Magisk Module Template
+# Thermal Mod for Mi5 - Fast Charge
+This module allows faster battery charging than the standard.
+   
+## Requirements
+- Mi5 lite or Prime or Pro.
+- Rooted with Magisk and Magisk Manager indeed installed.
 
-**Update `README.md` if you want to submit your module to the online repo!** This `README.md` will be shown in a Webview dialog when a user taps your module in Magisk Manager, so make sure to place some information / changelog / notes here.
+*__Note:__ Tested on the Xiaomi MI 5 running Android Pie 9.0/LineageOS 16.0*
 
-If you are not familiar with the Markdown syntax, you can start by experimenting on GitHub's online Markdown editor, which will let you preview before publishing. If you need more help, the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) will be handy.
+## Instructions
+__It's Magisk install-able, don't install it by TWRP but with Magisk instead!__
 
-For more information about modules and repos, please check the [official documentation](https://github.com/topjohnwu/Magisk/blob/master/docs/modules.md)
+#### Option 1 - Manually
+1. Go to Magisk Manager **_Modules_** section.
+2. Click on **_+_** yellow button and search/find for this **_"thermal_mod_mi5.zip"_** file and long press on it.
+3. Select open and after installed then reboot your device.
+
+#### Option 2 - Download
+1. Go to Magisk Manager **_Downloads_** section.
+2. Search/Find **_"Thermal Mod for Mi5 Fast Charge"_**.
+3. Tap on the download button and then on **_INSTALL_**.
+4. Wait a moment to finish downloading and installing.
+5. When finished tap on **_REBOOT_**.
+
+   *__Note 1:__ Warning! Dont use this while gaming*  
+   
+## Changelog
+#### Version 1.0
+- Initial release
+
+## Links
+- [GitHub Module Page](https://github.com/Magisk-Modules-Repo/thermal_mod_mi5)
